@@ -1,0 +1,42 @@
+#bil h1{
+       
+    font-family: Helvetica;
+    text-align: center;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+
+}
+#bil{
+    background-image: url(https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg);
+    background-position: center;
+    
+}
+#lol{
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color:white;
+    background-color: mediumspringgreen;
+}
+#pot,h1,p{
+    font-family: Helvetica;
+    font-weight: bold;
+}
+#siam{
+    background-color: lightcoral;
+    font-family: Helvetica;
+    font-weight: bold;
+    color:white;
+}
+#gra{
+    font-family: Helvetica;
+
+}
+#cri{
+    background-color: skyblue;
+    color:white;
+}
+span{
+    color:blue;
+}
